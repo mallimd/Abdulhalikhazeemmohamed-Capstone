@@ -1,3 +1,4 @@
+// src/components/StockForm.jsx
 import React from 'react';
 import './StockForm.css';
 
